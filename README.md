@@ -7,4 +7,6 @@ Big Data: tools and setup cluster, how to import large CSV files into database w
 
 * [PostgreSQL: Setup Cluster and Import Data](Step2_PostgreSQL.ipynb)
 
+* [Kubernetes with Helm: Management Services for Containers](Step3_Kubernetes-with-Helm.ipynb)
+
 How Machine Learning works on Big Data platform.
